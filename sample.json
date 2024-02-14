@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John Doe",
+    "place": "New York",
+    "age": 35,
+    "imageLink": "https://example.com/john-doe.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "place": "Los Angeles",
+    "age": 28,
+    "imageLink": "https://example.com/jane-smith.jpg"
+  },
+  {
+    "name": "Mike Johnson",
+    "place": "Chicago",
+    "age": 42,
+    "imageLink": "https://example.com/mike-johnson.jpg"
+  }
+]
