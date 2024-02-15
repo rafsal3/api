@@ -1,10 +1,82 @@
 [
   {
-    "name": "Stylista",
-    "descreption": "Blue Cotton Water Resistant Mattress Protector",
-    "price": "₹850",
-    "orgPrice": "MRP ₹1699",
-    "priceDesc": "(Rs. 849 OFF)",
-    "imgurl": "https://assets.ajio.com/medias/sys_master/root/20230602/ANzM/6479aa07d55b7d0c63459bd6/-473Wx593H-462658462-grey-MODEL.jpg"
+    "name": "SleepWell",
+    "description": "Comfortable mattress for a good night's sleep.",
+    "price": "₹5210",
+    "orgPrice": "MRP ₹16918",
+    "priceDesc": "(Rs. 3408 OFF)",
+    "imgurl": "https://picsum.photos/145"
+  },
+  {
+    "name": "Serta",
+    "description": "Premium quality mattress designed for maximum comfort.",
+    "price": "₹7671",
+    "orgPrice": "MRP ₹11818",
+    "priceDesc": "(Rs. 4147 OFF)",
+    "imgurl": "https://picsum.photos/175"
+  },
+  {
+    "name": "Tempur-Pedic",
+    "description": "Innovative mattress with advanced support and pressure relief features.",
+    "price": "₹9210",
+    "orgPrice": "MRP ₹18619",
+    "priceDesc": "(Rs. 9409 OFF)",
+    "imgurl": "https://picsum.photos/135"
+  },
+  {
+    "name": "Sealy",
+    "description": "Orthopedic mattress for superior back support and spinal alignment.",
+    "price": "₹2510",
+    "orgPrice": "MRP ₹11367",
+    "priceDesc": "(Rs. 8857 OFF)",
+    "imgurl": "https://picsum.photos/165"
+  },
+  {
+    "name": "Simmons",
+    "description": "Luxurious mattress crafted with premium materials for ultimate comfort.",
+    "price": "₹3824",
+    "orgPrice": "MRP ₹17342",
+    "priceDesc": "(Rs. 13518 OFF)",
+    "imgurl": "https://picsum.photos/125"
+  },
+  {
+    "name": "Beautyrest",
+    "description": "Elegant mattress with advanced motion isolation technology for undisturbed sleep.",
+    "price": "₹4611",
+    "orgPrice": "MRP ₹13644",
+    "priceDesc": "(Rs. 9033 OFF)",
+    "imgurl": "https://picsum.photos/185"
+  },
+  {
+    "name": "King Koil",
+    "description": "Durable mattress with superior edge support and long-lasting comfort.",
+    "price": "₹6598",
+    "orgPrice": "MRP ₹12185",
+    "priceDesc": "(Rs. 5587 OFF)",
+    "imgurl": "https://picsum.photos/195"
+  },
+  {
+    "name": "Casper",
+    "description": "Innovative mattress designed to provide optimal spine alignment and pressure relief.",
+    "price": "₹9182",
+    "orgPrice": "MRP ₹17181",
+    "priceDesc": "(Rs. 7999 OFF)",
+    "imgurl": "https://picsum.photos/155"
+  },
+  {
+    "name": "Leesa",
+    "description": "Comfortable mattress with advanced cooling technology for a refreshing sleep experience.",
+    "price": "₹5942",
+    "orgPrice": "MRP ₹11513",
+    "priceDesc": "(Rs. 5571 OFF)",
+    "imgurl": "https://picsum.photos/115"
+  },
+  {
+    "name": "Nectar",
+    "description": "Premium memory foam mattress designed for optimal pressure relief and support.",
+    "price": "₹7379",
+    "orgPrice": "MRP ₹10475",
+    "priceDesc": "(Rs. 3096 OFF)",
+    "imgurl": "https://picsum.photos/105"
   }
 ]
